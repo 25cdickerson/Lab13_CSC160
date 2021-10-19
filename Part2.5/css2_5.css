@@ -1,0 +1,19 @@
+.Athlete {
+  border: 2px black solid;
+  width: 300px;
+  text-align: center;
+}
+
+.Player {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.number {
+  text-align: left;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}

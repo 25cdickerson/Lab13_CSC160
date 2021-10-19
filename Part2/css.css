@@ -1,0 +1,15 @@
+.employee {
+  border: 2px black solid;
+  width: 300px;
+  text-align: center;
+}
+
+.ename {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
